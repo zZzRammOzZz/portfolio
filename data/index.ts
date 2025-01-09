@@ -72,6 +72,7 @@ export const gridItems = [
   },
 ];
 
+
 export const projects = [
   {
     id: 1,
@@ -79,34 +80,41 @@ export const projects = [
     des: "Discover the art of sushi with our engaging and interactive 3D simulation, showcasing the elegance and tradition of sushi making using advanced Three.js technology",
     img: "/Sushi man.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/bright-liger-75032b.netlify.app/",
+    link: "https://bright-liger-75032b.netlify.app/",
   },
   {
     id: 2,
-    title: "Evently",
-    des: "Host, Connect, Celebrate:Your Events, Our Platform!",
-    img: "/evently.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
-  },
-  {
-    id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/imaginify-six-plum.vercel.app/",
-  },
-  {
-    id: 4,
     title: "Animated Apple Iphone 3D Website",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/apple-clone-website22.netlify.app/",
+    link: "https://apple-clone-website22.netlify.app/",
+  },
+  {
+    id: 3,
+    title: "CarePulse",
+    des: "A platform where patients can manage their health, book appointments, and track medical history, all through a user-friendly interface.",
+    img: "/CarePulse.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://ornate-heliotrope-735423.netlify.app",
+  },
+  {
+    id: 4,
+    title: "Oxensal",
+    des: "A cutting-edge platform specializing in cybersecurity and CCTV solutions, showcasing expertise in safeguarding digital and physical environments with advanced technology.",
+    img: "/CarePulse.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://ornate-heliotrope-735423.netlify.app",
+  },
+  {
+    id: 5,
+    title: "The Market Minds agency",
+    des: "An innovative agency website designed to showcase expertise in marketing and branding, featuring advanced animations, seamless interactions, and a modern, responsive design.",
+    img: "/CarePulse.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://themarketmindsagency.com/",
   },
 ];
-
 export const testimonials = [
   {
     quote:
