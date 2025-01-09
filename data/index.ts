@@ -104,7 +104,7 @@ export const projects = [
     des: "A cutting-edge platform specializing in cybersecurity and CCTV solutions, showcasing expertise in safeguarding digital and physical environments with advanced technology.",
     img: "/oxen.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://ornate-heliotrope-735423.netlify.app",
+    link: "https://oxensal.com/",
   },
   {
     id: 5,
