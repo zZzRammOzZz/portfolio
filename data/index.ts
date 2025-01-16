@@ -72,7 +72,6 @@ export const gridItems = [
   },
 ];
 
-
 export const projects = [
   {
     id: 1,
@@ -113,6 +112,14 @@ export const projects = [
     img: "/mm.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://themarketmindsagency.com/",
+  },
+  {
+    id: 6,
+    title: "SRP",
+    des: "SRP is a human resources consulting firm with over 40 years of experience in transforming people’s lives.",
+    img: "/srp.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://supremerecruitmentpartners.com/",
   },
 ];
 export const testimonials = [
